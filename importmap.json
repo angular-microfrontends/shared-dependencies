@@ -1,5 +1,11 @@
 {
   "imports": {
-    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.3.4/lib/system/single-spa.min.js"
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.3.4/lib/system/single-spa.min.js",
+    "@angular/core": "https://unpkg.com/@angular/core@9.1.2/bundles/core.umd.min.js",
+    "@angular/common": "https://unpkg.com/@angular/common@9.1.2/bundles/common.umd.min.js",
+    "@angular/router": "https://unpkg.com/@angular/router@9.1.2/bundles/router.umd.min.js",
+    "@angular/platform-browser": "https://unpkg.com/@angular/platform-browser@9.1.2/bundles/platform-browser.umd.min.js",
+    "rxjs": "https://unpkg.com/@esm-bundle/rxjs@6.5.5/system/rxjs.min.js",
+    "rxjs/operators": "https://unpkg.com/@esm-bundle/rxjs@6.5.5/system/rxjs-operators.min.js"
   }
 }
