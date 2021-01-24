@@ -1,11 +1,11 @@
 {
   "imports": {
-    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.3.4/lib/system/single-spa.min.js",
     "@angular/core": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__core@9.1.3-fix.0/system/es2015/angular-core.min.js",
     "@angular/common": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__common@9.1.3-fix.0/system/es2015/angular-common.min.js",
     "@angular/router": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__router@9.1.3/system/es2015/angular-router.min.js",
     "@angular/platform-browser": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__platform-browser@9.1.3/system/es2015/angular-platform-browser.min.js",
     "rxjs": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs/system/es2015/rxjs.min.js",
-    "rxjs/operators": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs/system/es2015/rxjs-operators.min.js"
+    "rxjs/operators": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs/system/es2015/rxjs-operators.min.js",
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js"
   }
 }
