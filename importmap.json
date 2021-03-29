@@ -1,19 +1,11 @@
 {
   "imports": {
-    "@angular/animations": "http://localhost:9002/angular-animations/angular_animations.js",
-    "@angular/animations/browser": "http://localhost:9002/angular-animations-browser/angular_animations_browser.js",
     "@angular/core": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__core@11.1.1/system/es2015/ivy/angular-core.min.js",
     "@angular/common": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__common@11.1.1/system/es2015/ivy/angular-common.min.js",
     "@angular/router": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__router@11.1.1/system/es2015/ivy/angular-router.min.js",
     "@angular/platform-browser": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__platform-browser@11.1.1/system/es2015/ivy/angular-platform-browser.min.js",
-    "@angular/platform-browser/animations": "http://localhost:9002/angular-platform-browser-animations/angular_platform-browser_animations.js",
-    "@angular-mf/core": "http://localhost:9002/angular-mf-core/bundles/angular-mf-core.umd.js",
-    "@angular-mf/navbar": "http://localhost:4201/main.js",
-    "@angular-mf/play": "http://localhost:4202/main.js",
     "rxjs": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs@6.6.3-fix.0/system/es2015/rxjs.min.js",
     "rxjs/operators": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs@6.6.3-fix.0/system/es2015/rxjs-operators.min.js",
-    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.1/lib/system/single-spa.min.js",
-    "single-spa-angular": "http://localhost:9002/single-spa-angular/single-spa-angular.js",
-    "tslib": "http://localhost:9002/tslib/tslib.js"
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.1/lib/system/single-spa.min.js"
   }
 }
