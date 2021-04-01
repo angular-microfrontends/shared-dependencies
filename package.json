@@ -1,5 +1,5 @@
 {
-  "name": "shared-dependencies",
+  "name": "@angular-microfrontends/shared-dependencies",
   "version": "0.1.0-0",
   "repository": "https://github.com/angular-microfrontends/shared-dependencies.git",
   "license": "MIT",
