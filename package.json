@@ -1,0 +1,13 @@
+{
+  "name": "@angular-microfrontends/shared-dependencies",
+  "version": "0.1.0-0",
+  "repository": "https://github.com/angular-microfrontends/shared-dependencies.git",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "http-server --cors --gzip --port 9001"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
