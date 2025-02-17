@@ -87,7 +87,3 @@ jobs:
           password: ${{ secrets.DEPLOYER_PASSWORD }}
           import-map-path: deps.importmap
           environment-name: angular
-
-principalSet://iam.googleapis.com/projects/654158993889/locations/global/workloadIdentityPools/github/attribute.repository_owner/angular-microfrontends
-principalSet://iam.googleapis.com/projects/654158993889/locations/global/workloadIdentityPools/github/attribute.repository_owner/react-microfrontends
-principalSet://iam.googleapis.com/projects/654158993889/locations/global/workloadIdentityPools/github/attribute.repository_owner/vue-microfrontends
